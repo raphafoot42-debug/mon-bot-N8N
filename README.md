@@ -1,2 +1,1 @@
-# mon-bot-N8N
-automatisation N8N publication 
+tiktok-developers-site-verification=RVFyVnShcHvaKcaORWItyEfekYzTxoQ1
